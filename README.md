@@ -13,22 +13,21 @@ As you can see in the following animation, a user can type a search term (in thi
 
 ![Animation shows "star wars" typed into a search box and books about Star Wars appearing as results.](./Assets/21-mern-homework-demo-01.gif)
 
-The user can save books by clicking "Save This Book!" under each search result, as shown in the following animation:
-
-![Animation shows user clicking "Save This Book!" button to save books that appear in search results. The button label changes to "Book Already Saved" after it is clicked and the book is saved.](./Assets/21-mern-homework-demo-02.gif)
-
-A user can view their saved books on a separate page, as shown in the following animation:
-
-![The Viewing Lernantino's Books page shows the books that the user Lernaninto has saved.](./Assets/21-mern-homework-demo-03.gif)
 
 ## Table of Contents
   * [Usage](#usage)
   * [License](#license)
   * [Questions](#questions)
 
+## Installation
 
-## [Usage](#table-of-contents)
-To use, search any book in the search bar. To save the book, you must either make an account or login in the top right corner.
+Clone or Fork the repository to your computer. Enter `npm i` to install dependancies.
+
+## Usage
+
+- Enter `npm run build` then `npm run dev` into terminal.
+
+
 
 ## [License](#table-of-contents)
 This application has no license.
