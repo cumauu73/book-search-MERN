@@ -25,7 +25,7 @@ Clone or Fork the repository to your computer. Enter `npm i` to install dependan
 
 ## Usage
 
-- Enter `npm run build` then `npm run dev` into terminal.
+- Enter `npm run build` then `npm run develop` into terminal.
 
 
 
